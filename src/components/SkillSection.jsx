@@ -32,7 +32,7 @@ export default class SkillSection extends React.Component {
 
 const skillDomain = [
     { 
-        'title': '程式語言',
+        'title': 'Language',
         'skills': [
             'C / C++',
             'javascript',
@@ -40,7 +40,7 @@ const skillDomain = [
             'JAVA'
         ]
     },{
-        'title': '前端開發',
+        'title': 'Front-end',
         'skills': [
             'HTML + CSS',
             'React',
@@ -48,7 +48,7 @@ const skillDomain = [
             'React Native'
         ]
     },{
-        'title': '後端開發',
+        'title': 'Back-end',
         'skills': [
             'Node.js',
             'PostgreSQL',
