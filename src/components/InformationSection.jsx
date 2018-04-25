@@ -16,8 +16,8 @@ export default class InformationSection extends React.Component {
 
     render() {
         return (
-            <div id='informationSection'>
-                <Typography component='h2' variant='display3' align='center'>ABOUT ME</Typography>
+            <div id='informationSection' className='gray-bg'>
+                <Typography component='h2' variant='display3' align='center' gutterBottom>ABOUT ME</Typography>
                 <div id='informationContent'>
                     <Grid container spacing={40}>
                         <Grid item md={6} xs={12}>

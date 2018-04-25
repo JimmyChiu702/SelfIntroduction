@@ -2,15 +2,19 @@
     background-color: rgb(100, 100, 100);
     width: 100%;
     text-align: center;
+    padding: 0.3rem 0;
 }
 
 #emailIcon {
     width: 5rem;
 }
 
+#contactText, #contactTitle {
+    color: rgb(220, 220, 220);
+}
+
 #contactText {
-    font-size: 2rem;
-    color: white;
+    font-size: 1.5rem;
 }
 
 #contactSectionTitle {

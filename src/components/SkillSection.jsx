@@ -14,11 +14,11 @@ export default class SkillSection extends React.Component {
 
     render() {
         return (
-            <div id='skillSection'>
+            <div id='skillSection' className='gray-bg'>
                 <div className='sectionTitle'>
                     <Typography component='h2' variant='display3' align='center'>SKILLS</Typography>
                 </div>
-                <Grid container spacing={24}>
+                <Grid container spacing={24} id='skillContainer'>
                     {skillDomain.map((obj, i) => (
                         <Grid item xs={12} sm={6} md={4} key={i}>
                             <SkillDomain {...obj}/>

@@ -14,7 +14,7 @@ export default class SkillDomain extends React.Component {
         return (
             <Paper>
                 <div className='skillDomainContainer'>
-                    <Typography component='h3' variant='display2' align='center' gutterBottom>
+                    <Typography component='h3' variant='display1' align='center' gutterBottom>
                         {this.props.title}
                     </Typography>
                     {this.props.skills.map((s, i) => (

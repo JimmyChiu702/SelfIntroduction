@@ -1,5 +1,4 @@
 #photoAndNameSection {
-    background-color: red;
 }
 
 #photoAndNameContainer {
@@ -16,8 +15,9 @@
 }
 
 #image {
-    width: 40%;
-    margin-top: 10% auto;
+    width: 30%;
+    height: auto;
+    margin: 0 auto 3rem;
 }
 
 #photoContainer, #nameContainer {

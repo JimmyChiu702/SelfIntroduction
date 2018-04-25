@@ -1,4 +1,8 @@
-#skillSectionContainer {
-    text-align: center;
+#skillContainer {
+    max-width: 900px;
+    margin: 0 auto;
 }
 
+#skillSection {
+    padding: 2rem 0;
+}

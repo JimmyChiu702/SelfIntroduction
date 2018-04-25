@@ -10,3 +10,7 @@ text {
     font-family: ‘Noto Sans TC’, sans-serif;
     
 }
+
+.gray-bg {
+    background-color: rgb(230, 230, 230);
+}
