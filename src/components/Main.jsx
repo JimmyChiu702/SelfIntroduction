@@ -16,6 +16,7 @@ export default class Main extends React.Component {
     render() {
         return (
             <div>
+                <link rel="icon" href="./images/email.png"/>
                 <PhotoAndNameSection/>
                 <InformationSection/>
                 <ExperienceSection/>
