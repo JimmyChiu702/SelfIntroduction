@@ -1,0 +1,15 @@
+#experienceSection {
+    height: 100%;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.sectionTitle {
+    margin: auto;
+}
+
+.listTitle {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,22 @@
+#contactSection {
+    background-color: rgb(100, 100, 100);
+    width: 100%;
+    text-align: center;
+}
+
+#emailIcon {
+    width: 5rem;
+}
+
+#contactText {
+    font-size: 2rem;
+    color: white;
+}
+
+#contactSectionTitle {
+    margin: 3rem auto;
+}
+
+#contactContent {
+    margin: auto 3rem;
+}

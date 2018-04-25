@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+
+.main {
+    height: 100%;
+    width: 100%;
+    font-family: ‘Noto Sans TC’, sans-serif;
+}
+
+text {
+    font-family: ‘Noto Sans TC’, sans-serif;
+    
+}
