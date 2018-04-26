@@ -18,7 +18,7 @@ export default class SkillSection extends React.Component {
                 <div className='sectionTitle'>
                     <Typography component='h2' variant='display3' align='center'>SKILLS</Typography>
                 </div>
-                <Grid container spacing={24} id='skillContainer'>
+                <Grid container spacing={40} id='skillContainer'>
                     {skillDomain.map((obj, i) => (
                         <Grid item xs={12} sm={6} md={4} key={i}>
                             <SkillDomain {...obj}/>

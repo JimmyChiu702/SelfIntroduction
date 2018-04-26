@@ -14,3 +14,7 @@ text {
 .gray-bg {
     background-color: rgb(230, 230, 230);
 }
+
+.gridItem {
+    margin: 3rem;
+}
